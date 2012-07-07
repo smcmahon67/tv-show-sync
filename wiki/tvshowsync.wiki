@@ -8,7 +8,7 @@ The tvshowsync.ps1 script is intended to keep certain TV shows in sync between a
 
   # define shows to keep in sync
   # for each show
-  ## is it in the slave location already?
-  ### make a directory if necessary
-  ### if not in slave location copy over
-  ### set meta data
+  # is it in the slave location already?
+  # make a directory if necessary
+  # if not in slave location copy over
+  # set meta data
