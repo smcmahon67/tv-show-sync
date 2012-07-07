@@ -1,0 +1,5 @@
+#summary describe what the tvshowsync.ps1 does and plan its development
+
+= Introduction =
+
+The tvshowsync.ps1 script is intended to keep certain TV shows in sync between a master iTunes library and a slave iTunes library
