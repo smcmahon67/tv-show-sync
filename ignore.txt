@@ -1,0 +1,4 @@
+desktop.ini
+showlist.txt
+.dropbox
+ignore.txt
